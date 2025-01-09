@@ -7,7 +7,7 @@ const Navbar = () => {
 
   const navItems = [
     { name: 'HOME', href: '/' },
-    { name: 'ABOUT US', href: '#' },
+    { name: 'ABOUT US', href: '/About Us' },
     { name: 'ADMISSIONS', href: '#' },
     { name: 'ALUMNI', href: '#' },
   ];
@@ -15,7 +15,7 @@ const Navbar = () => {
   const topNavItems = [
     { name: 'NEWS & EVENTS', href: '#' },
     { name: 'FAQ', href: '#' },
-    { name: 'CONTACT US', href: '#' },
+    { name: 'CONTACT US', href: '/Contact Us' },
   ];
 
   return (

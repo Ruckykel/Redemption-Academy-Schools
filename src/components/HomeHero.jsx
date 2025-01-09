@@ -3,7 +3,7 @@ import React from 'react';
 const HomeHero = () => {
   return (
     <section className="relative h-[70vh] sm:h-[83vh]  bg-cover bg-center" style={{ backgroundImage: 'url(/RasStudents.png)' }}>
-      <div className="absolute inset-0 bg-black opacity-50"></div>
+      <div className="absolute inset-0 bg-black opacity-15"></div>
       <div className="relative z-10 px-6 py-16 mx-auto max-w-7xl">
         <div className="flex flex-col  justify-start mt-28">
           {/* Header */}

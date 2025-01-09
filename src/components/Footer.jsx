@@ -4,7 +4,7 @@ import { Facebook, Instagram, Mail, Phone } from 'lucide-react';
 const Footer = () => {
   // Navigation links with URLs
   const navigationLinks = [
-    { title: 'About', url: '#' },
+    { title: 'About', url: '/About Us' },
     { title: 'News', url: '#' },
     { title: 'Events', url: '#' },
     { title: 'Admissions', url: '#' },
